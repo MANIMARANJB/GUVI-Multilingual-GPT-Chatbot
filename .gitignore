@@ -25,3 +25,5 @@ data/raw/
 
 # Logs
 *.log
+.env
+
