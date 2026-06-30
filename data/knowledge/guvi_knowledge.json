@@ -48,5 +48,66 @@
         "topic": "about_guvi",
         "instruction": "Can I learn technology in my regional language using GUVI?",
         "response": "Yes, GUVI focuses on multilingual education and helps learners understand technology concepts in their preferred language."
+    },
+
+    {
+    "topic": "courses",
+    "instruction": "What courses are available in GUVI?",
+    "response": "GUVI offers technology courses in areas such as Artificial Intelligence, Machine Learning, Data Science, Full Stack Development, Cybersecurity, Cloud Computing, DevOps, Programming Languages, and UI/UX Design."
+    },
+    {
+    "topic": "courses",
+    "instruction": "Does GUVI offer Artificial Intelligence courses?",
+    "response": "Yes, GUVI provides Artificial Intelligence and Machine Learning courses that cover Python, machine learning algorithms, deep learning, generative AI, and real-world projects."
+    },
+    {
+    "topic": "courses",
+    "instruction": "Does GUVI provide Data Science courses?",
+    "response": "Yes, GUVI provides Data Science programs covering Python, statistics, data analysis, machine learning, SQL, visualization, and practical projects."
+    },
+    {
+    "topic": "courses",
+    "instruction": "Does GUVI have Full Stack Development courses?",
+    "response": "Yes, GUVI offers Full Stack Development courses covering frontend technologies, backend development, databases, APIs, and deployment."
+    },
+    {
+    "topic": "courses",
+    "instruction": "What programming languages can I learn in GUVI?",
+    "response": "Learners can develop skills in programming languages such as Python, Java, JavaScript, C, C++, and other popular technologies."
+    },
+    {
+    "topic": "courses",
+    "instruction": "Does GUVI offer Python courses?",
+    "response": "Yes, GUVI provides Python courses for beginners and professionals covering programming fundamentals, automation, data science, and artificial intelligence."
+    },
+    {
+    "topic": "courses",
+    "instruction": "What is Zen Class in GUVI?",
+    "response": "Zen Class is GUVI's live online learning program where learners receive instructor-led training, practical projects, and career guidance."
+    },
+    {
+    "topic": "courses",
+    "instruction": "What are GUVI self-paced courses?",
+    "response": "GUVI self-paced courses allow learners to study anytime with recorded lessons, practice exercises, and structured learning paths."
+    },
+    {
+    "topic": "courses",
+    "instruction": "Does GUVI provide coding practice?",
+    "response": "Yes, GUVI provides coding practice platforms where learners can solve programming problems and improve their coding skills."
+    },
+    {
+    "topic": "courses",
+    "instruction": "What is CodeKata?",
+    "response": "CodeKata is GUVI's coding practice platform designed to help learners improve programming skills through coding challenges."
+    },
+    {
+    "topic": "courses",
+    "instruction": "What is WebKata?",
+    "response": "WebKata is a platform that helps learners practice frontend and web development skills through hands-on coding exercises."
+    },
+    {
+    "topic": "courses",
+    "instruction": "What is SQLKata?",
+    "response": "SQLKata helps learners practice SQL queries and improve database management skills."
     }
 ]
