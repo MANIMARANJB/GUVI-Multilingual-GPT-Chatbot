@@ -184,5 +184,155 @@
     "topic": "career",
     "instruction": "How can I prepare for technical interviews?",
     "response": "Technical interview preparation includes practicing coding problems, learning computer science fundamentals, understanding projects, and improving communication skills."
+    },
+    {
+    "topic": "support",
+    "instruction": "How do I enroll in a GUVI course?",
+    "response": "To enroll in a GUVI course, select the required course, register on the GUVI platform, and complete the enrollment process."
+    },
+    {
+    "topic": "support",
+    "instruction": "Does GUVI provide certificates?",
+    "response": "Yes, GUVI provides certificates for eligible courses after successful completion of learning activities and assessments."
+    },
+    {
+    "topic": "support",
+    "instruction": "Does GUVI provide placement support?",
+    "response": "GUVI provides career support through industry-oriented training, interview preparation, and job assistance programs."
+    },
+    {
+    "topic": "support",
+    "instruction": "Can beginners learn from GUVI?",
+    "response": "Yes, GUVI offers beginner-friendly courses with structured learning paths to help new learners build technology skills."
+    },
+    {
+    "topic": "support",
+    "instruction": "Can I learn at my own pace in GUVI?",
+    "response": "Yes, GUVI provides self-paced learning options where learners can access courses according to their schedule."
+    },
+    {
+    "topic": "support",
+    "instruction": "Does GUVI provide live classes?",
+    "response": "Yes, GUVI offers live instructor-led programs where learners can interact with mentors and learn through practical sessions."
+    },
+    {
+    "topic": "support",
+    "instruction": "Does GUVI provide project-based learning?",
+    "response": "Yes, GUVI focuses on practical learning by including projects and hands-on exercises to improve real-world skills."
+    },
+    {
+    "topic": "support",
+    "instruction": "How can I contact GUVI support?",
+    "response": "Learners can contact GUVI support through the official GUVI website support channels for assistance."
+    },
+    {
+    "topic": "support",
+    "instruction": "Does GUVI offer courses in multiple languages?",
+    "response": "Yes, GUVI focuses on multilingual technology education and supports learning in multiple languages."
+    },
+    {
+    "topic": "support",
+    "instruction": "What learning platforms does GUVI provide?",
+    "response": "GUVI provides learning platforms including coding practice environments, courses, and skill development programs."
+    },
+    {
+    "topic": "support",
+    "instruction": "Is GUVI useful for working professionals?",
+    "response": "Yes, working professionals can use GUVI to upskill, learn new technologies, and improve career opportunities."
+    },
+    {
+    "topic": "support",
+    "instruction": "Does GUVI provide interview preparation?",
+    "response": "Yes, GUVI provides interview preparation resources including coding practice, technical concepts, and career guidance."
+    },
+    {
+    "topic": "support",
+    "instruction": "Can college students use GUVI?",
+    "response": "Yes, college students can use GUVI to learn industry skills, complete projects, and prepare for technology careers."
+    },
+    {
+    "topic": "support",
+    "instruction": "Does GUVI teach practical skills?",
+    "response": "Yes, GUVI emphasizes practical skills through coding exercises, projects, and industry-relevant curriculum."
+    },
+    {
+    "topic": "support",
+    "instruction": "What is the advantage of learning with GUVI?",
+    "response": "GUVI helps learners gain technology skills through structured courses, practical learning, multilingual support, and career guidance."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "Give me a Python learning roadmap.",
+    "response": "A Python learning roadmap starts with Python basics, variables, data types, conditions, loops, functions, object-oriented programming, libraries, projects, and advanced topics."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "Give me a Data Science roadmap.",
+    "response": "A Data Science roadmap includes Python programming, statistics, SQL, data analysis, visualization, machine learning, deep learning, and real-world projects."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "Give me an Artificial Intelligence roadmap.",
+    "response": "An AI roadmap includes Python, mathematics, machine learning, deep learning, neural networks, natural language processing, computer vision, and AI projects."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "Give me a Machine Learning roadmap.",
+    "response": "A Machine Learning roadmap includes Python, statistics, data preprocessing, supervised learning, unsupervised learning, model evaluation, and deployment."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "Give me a Full Stack Developer roadmap.",
+    "response": "A Full Stack roadmap includes HTML, CSS, JavaScript, frontend frameworks, backend technologies, databases, APIs, authentication, and deployment."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "How do I become a web developer?",
+    "response": "To become a web developer, learn HTML, CSS, JavaScript, frontend frameworks, backend development, databases, and build web projects."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "How do I become a Data Analyst?",
+    "response": "A Data Analyst roadmap includes Excel, SQL, Python, data cleaning, visualization tools, statistics, and dashboard creation."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "How do I become a Cloud Engineer?",
+    "response": "A Cloud Engineer roadmap includes networking basics, Linux, cloud platforms, virtualization, security, and cloud deployment practices."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "How do I become a DevOps Engineer?",
+    "response": "A DevOps roadmap includes Linux, Git, scripting, CI/CD, Docker, Kubernetes, cloud platforms, monitoring, and automation."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "What should I learn before Artificial Intelligence?",
+    "response": "Before learning AI, understand programming, mathematics, statistics, data handling, and basic machine learning concepts."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "What should I learn before Data Science?",
+    "response": "Before Data Science, learn Python programming, statistics, SQL, data analysis, and visualization fundamentals."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "How long does it take to learn programming?",
+    "response": "The learning time depends on consistency and practice. Beginners can build strong programming foundations through regular practice and projects."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "How can I improve my coding skills?",
+    "response": "Improve coding skills by practicing problems, building projects, learning algorithms, reviewing code, and continuously exploring new concepts."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "What skills are important for a software engineer?",
+    "response": "Important software engineering skills include programming, data structures, algorithms, databases, system design, debugging, and teamwork."
+    },
+    {
+    "topic": "roadmap",
+    "instruction": "How should I start my technology career?",
+    "response": "Start by choosing a technology field, learning fundamentals, building projects, practicing regularly, and developing a strong portfolio."
     }
 ]
