@@ -1,0 +1,52 @@
+[
+    {
+        "topic": "about_guvi",
+        "instruction": "What is GUVI?",
+        "response": "GUVI is an online technology learning platform that focuses on making technical education accessible to learners through multiple languages. It provides skill-based courses, coding practice, and career-focused learning programs."
+    },
+    {
+        "topic": "about_guvi",
+        "instruction": "Tell me about GUVI.",
+        "response": "GUVI is a technology education platform that helps students and professionals learn programming, artificial intelligence, data science, web development, and other technology skills."
+    },
+    {
+        "topic": "about_guvi",
+        "instruction": "What does GUVI stand for?",
+        "response": "GUVI stands for Grab Your Vernacular Imprint. The platform focuses on reducing language barriers in technology education."
+    },
+    {
+        "topic": "about_guvi",
+        "instruction": "Who started GUVI?",
+        "response": "GUVI was incubated by IIT Madras and IIM Ahmedabad with the goal of providing quality technology education."
+    },
+    {
+        "topic": "about_guvi",
+        "instruction": "When was GUVI founded?",
+        "response": "GUVI was established in 2014 to provide accessible technology education for learners."
+    },
+    {
+        "topic": "about_guvi",
+        "instruction": "What is the main purpose of GUVI?",
+        "response": "The main purpose of GUVI is to help learners gain industry-relevant technology skills through structured courses and practical learning."
+    },
+    {
+        "topic": "about_guvi",
+        "instruction": "Who can use GUVI?",
+        "response": "GUVI can be used by students, beginners, graduates, and working professionals who want to improve their technical skills."
+    },
+    {
+        "topic": "about_guvi",
+        "instruction": "Does GUVI support beginners?",
+        "response": "Yes, GUVI provides beginner-friendly learning paths and courses for people starting their technology journey."
+    },
+    {
+        "topic": "about_guvi",
+        "instruction": "Why should I choose GUVI?",
+        "response": "GUVI provides practical technology education, coding practice, career guidance, and multilingual learning support."
+    },
+    {
+        "topic": "about_guvi",
+        "instruction": "Can I learn technology in my regional language using GUVI?",
+        "response": "Yes, GUVI focuses on multilingual education and helps learners understand technology concepts in their preferred language."
+    }
+]
