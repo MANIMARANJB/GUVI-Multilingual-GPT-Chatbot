@@ -109,5 +109,80 @@
     "topic": "courses",
     "instruction": "What is SQLKata?",
     "response": "SQLKata helps learners practice SQL queries and improve database management skills."
+    },
+    {
+    "topic": "career",
+    "instruction": "How can GUVI help my career?",
+    "response": "GUVI helps learners build technology careers by providing industry-focused courses, practical projects, coding practice, and career guidance."
+    },
+    {
+    "topic": "career",
+    "instruction": "I am a beginner in technology. Where should I start?",
+    "response": "Beginners can start with programming fundamentals, learn Python or another programming language, practice coding regularly, and gradually move towards specialized fields."
+    },
+    {
+    "topic": "career",
+    "instruction": "How can I become a Data Scientist?",
+    "response": "To become a Data Scientist, learn Python, statistics, data analysis, SQL, machine learning, data visualization, and complete real-world projects."
+    },
+    {
+    "topic": "career",
+    "instruction": "What skills are required for Data Science?",
+    "response": "Important Data Science skills include Python programming, statistics, SQL, machine learning, data visualization, and problem-solving."
+    },
+    {
+    "topic": "career",
+    "instruction": "How can I become an Artificial Intelligence engineer?",
+    "response": "To become an AI engineer, learn Python, machine learning, deep learning, neural networks, natural language processing, and deployment techniques."
+    },
+    {
+    "topic": "career",
+    "instruction": "What skills are needed for AI jobs?",
+    "response": "AI jobs require programming knowledge, mathematics, machine learning concepts, deep learning frameworks, and practical project experience."
+    },
+    {
+    "topic": "career",
+    "instruction": "Give me a Python learning roadmap.",
+    "response": "A Python roadmap starts with syntax, variables, conditions, loops, functions, object-oriented programming, libraries, projects, and advanced topics."
+    },
+    {
+    "topic": "career",
+    "instruction": "Give me a Data Science learning roadmap.",
+    "response": "A Data Science roadmap includes Python, statistics, SQL, data analysis, visualization, machine learning, deep learning, and real-world projects."
+    },
+    {
+    "topic": "career",
+    "instruction": "Give me a Full Stack Developer roadmap.",
+    "response": "A Full Stack roadmap includes HTML, CSS, JavaScript, frontend frameworks, backend development, databases, APIs, authentication, and deployment."
+    },
+    {
+    "topic": "career",
+    "instruction": "What should I learn for a software developer career?",
+    "response": "Software developers should learn programming fundamentals, data structures, algorithms, databases, version control, software development practices, and build projects."
+    },
+    {
+    "topic": "career",
+    "instruction": "Which technology field is good for beginners?",
+    "response": "Beginners can explore fields like Python development, web development, data analytics, cloud computing, and artificial intelligence based on their interests."
+    },
+    {
+    "topic": "career",
+    "instruction": "How can I improve my programming skills?",
+    "response": "Programming skills improve through consistent practice, solving coding problems, building projects, reading code, and learning from mistakes."
+    },
+    {
+    "topic": "career",
+    "instruction": "What projects should I build as a beginner?",
+    "response": "Beginners can build projects like portfolio websites, automation tools, data analysis projects, chatbots, and small applications."
+    },
+    {
+    "topic": "career",
+    "instruction": "How important are projects for getting a tech job?",
+    "response": "Projects demonstrate practical skills and help recruiters understand your ability to apply technical knowledge."
+    },
+    {
+    "topic": "career",
+    "instruction": "How can I prepare for technical interviews?",
+    "response": "Technical interview preparation includes practicing coding problems, learning computer science fundamentals, understanding projects, and improving communication skills."
     }
 ]
